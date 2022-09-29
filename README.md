@@ -1,7 +1,9 @@
 # Folder File System
 A Java Project that allows users to create, delete and print data of a hierarchical file/folder structure. The Composite Design Pattern is used to simulate the Folders and Files Objects.
 \
+\
 The User interface is implemented using Java Swing Library. 
+\
 \
 The Following functionalities is provided:
 - Add Folders
